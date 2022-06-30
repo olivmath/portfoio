@@ -1,15 +1,20 @@
 import type { NextPage } from 'next'
+import Head from 'next/head'
+import Image from 'next/image'
 
 const Home: NextPage = () => {
   return (
-    <div>
-    <h1 className='text-xl'>
-      Lucas Oliveira
-    </h1>
-    <h2 className='text-lg'>
-      Senior Blockchain Engineer
-    </h2>
-    </div>
+    <>
+      <Head>
+        <title>Home | olivmath portfolio </title>
+      </Head>
+      <h1 className='text-xl ml-8'>
+        Lucas Oliveira
+      </h1>
+      <h2 className='text-lg ml-8'>
+        Senior Blockchain Engineer
+      </h2>
+    </>
   )
 }
 
