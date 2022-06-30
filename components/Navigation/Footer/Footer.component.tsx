@@ -2,8 +2,8 @@
  # 
  * @returns Returns a SocialLink component
  */
-const SocialLink = () {
+const SocialLink = () => {
   return (
-
+    <></>
   )
 }
