@@ -6,7 +6,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Home | olivmath portfolio </title>
+        <title>Home | olivmath portfolio</title>
       </Head>
       <h1 className='text-xl ml-8'>
         Lucas Oliveira
