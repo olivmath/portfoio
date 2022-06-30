@@ -9,7 +9,8 @@ module.exports = {
       sm: ['14px', '20px'],
       base: ['16px', '24px'],
       lg: ['20px', '28px'],
-      xl: ['120px', '32px'],
+      xl: ['32px', '34px'],
+      big: ['120px', '180px']
     }
   },
   plugins: [],
